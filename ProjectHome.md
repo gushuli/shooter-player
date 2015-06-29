@@ -1,0 +1,1 @@
+splayer has beed migrated to github https://github.com/Tomasen/SPlayer
